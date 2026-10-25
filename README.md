@@ -7,7 +7,7 @@ The dashboard helps users compare average prices, identify expensive and afforda
 
 ## Dashboard Preview
 
-![India Agriculture Price Dashboard](dashboard-preview.png)
+(dashboard-preview.png)
 
 ## Tools Used
 - Microsoft Excel
