@@ -6,7 +6,8 @@ The India Agriculture Price Dashboard is an interactive Excel dashboard develope
 The dashboard helps users compare average prices, identify expensive and affordable markets, and understand price trends across different dates and commodities.
 
 ## Dashboard Preview
-![India Agriculture Price Dashboard](dashboard-preview.png).png
+
+![India Agriculture Price Dashboard](dashboard-preview.png)
 
 ## Tools Used
 - Microsoft Excel
